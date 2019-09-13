@@ -16,7 +16,7 @@ adding the image file route dinamically.
 In our local preproduction enviroment we can mimic this behavior with this script and save time, since there is no requirement 
 to manually replace every image call in the HTML code. Just make sure there is an img folder in the local file location, and the script will replace the above to something like: <code>&lt;img src="img/image.png" /&gt;</code>. The script will also pull background images included in the CSS file stylesheet.
 
-While using this script, you may notice in the browser console a list of error messages, this is normal, since the browser will first read the HTMl, try to pull the image and since it will not find in "^media_src_image.png^", it will throw a "not found" error message.
+While using this script, you may notice in the browser console a list of error messages, this is normal, since the browser will first read the HTML, try to pull the image and since it will not find in "^media_src_image.png^", it will throw a "not found" error message.
 
 See a working example at: https://accedo-gps.000webhostapp.com/demo/js-media-replace/index.html
 
