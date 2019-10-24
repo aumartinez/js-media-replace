@@ -3,7 +3,7 @@ A JS media replacement script
 
 ## How to use it
 
-Include the script *media-sub.js* to the HTML footer bottom scripts.
+Include the script **media-sub.js** to the HTML footer bottom scripts.
 
 ## What it does
 
