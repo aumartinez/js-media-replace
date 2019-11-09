@@ -7,7 +7,7 @@ Include the script **media-sub.js** to the HTML footer bottom scripts.
 
 ## What it does
 
-In our Team we work with a CMS that uses a set of flags (special characters) encoding to embedded templated elements 
+In our Team we work with a CMS that uses a set of flags (special characters) encoding to embedd templated elements 
 or call to media files like images or videos.
 
 We usual call an image like: <code>&lt;img src="^media_src_image.png^" /&gt;</code>, then the CMS script will replace this flag
